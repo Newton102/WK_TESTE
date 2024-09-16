@@ -1,0 +1,3 @@
+Senha do MySQL  @Nga*8818
+arquivo INI na pasta win32/defaut
+Desenvolvido em RadStudio Alexandria com componentes nativos em win32
